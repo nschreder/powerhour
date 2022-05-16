@@ -1,27 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Sample Feed - Favorite RSS Related Software & Resources</title>
-  <description>Take a look at some of FeedForAll's favorite software and resources for learning more about RSS.</description>
-  <categories>
-    <category>Power Apps</category>
-  </categories>
-  <link>http://www.feedforall.com</link>
-  <category domain="www.dmoz.com">Computers/Software/Internet/Site Management/Content Management</category>
-  <copyright>Copyright 2004 NotePage, Inc.</copyright>
-  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 1 Nov 2004 13:17:17 -0500</lastBuildDate>
-  <managingEditor>marketing@feedforall.com</managingEditor>
-  <pubDate>Tue, 26 Oct 2004 14:06:44 -0500</pubDate>
-  <webMaster>webmaster@feedforall.com</webMaster>
-  <generator>FeedForAll Beta1 (0.0.1.8)</generator>
-  <image>
-    <url>http://www.feedforall.com/feedforall-temp.gif</url>
-    <title>FeedForAll Sample Feed</title>
-    <link>http://www.feedforall.com/industry-solutions.htm</link>
-    <description>FeedForAll Sample Feed</description>
-    <width>144</width>
-    <height>117</height>
-  </image>
+  <title>Power Hour</title>
+  <link>https://github.com/nschreder/powerhour</link>
+  <description>Power Hour Demo</description>
+  <item>
+    <title>Demo 1</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Demo 1 Description</description>
+  </item>
+  <item>
+    <title>Demo 2</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>Demo 2 Description</description>
+  </item>
 </channel>
 </rss>
