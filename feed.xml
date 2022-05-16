@@ -8,6 +8,9 @@
     <title>Demo 1</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>Demo 1 Description</description>
+    <categories>
+        <category>Power Apps</category>
+    </categories>
   </item>
   <item>
     <title>Demo 2</title>
