@@ -8,14 +8,10 @@
     <title>Demo 1</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>Demo 1 Description</description>
-    <categories>
-        <category>Power Apps</category>
-    </categories>
-  </item>
-  <item>
-    <title>Demo 2</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>Demo 2 Description</description>
+    <pubDate>2022-05-15T07:24:04+05:30</pubDate>
+    <category>Power Apps</category>
+    <category>Power Automate</category>
+    <link>https://www.bing.com</link>
   </item>
 </channel>
 </rss>
