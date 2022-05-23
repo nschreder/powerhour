@@ -4,13 +4,14 @@
   <title>Power Hour</title>
   <link>https://github.com/nschreder/powerhour</link>
   <description>Power Hour Demo</description>
+  <copyright>Nico Schreder</copyright>
   <item>
     <title>Demo 1</title>
     <description>Demo 1 Description</description>
     <pubDate>2022-05-15T07:24:04+05:30</pubDate>
-    <copyright>Nico Schreder</copyright>
-    <category>Power Apps</category>
-    <category>Power Automate</category>
+    <category>SERVICE:Power Apps</category>
+    <category>SERVICE:Power Automate</category>
+    <category>AUTHOR:Nico Schreder</category>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <link>https://www.bing.com</link>
   </item>
