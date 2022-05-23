@@ -6,11 +6,12 @@
   <description>Power Hour Demo</description>
   <item>
     <title>Demo 1</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>Demo 1 Description</description>
     <pubDate>2022-05-15T07:24:04+05:30</pubDate>
+    <copyright>Nico Schreder</copyright>
     <category>Power Apps</category>
     <category>Power Automate</category>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <link>https://www.bing.com</link>
   </item>
 </channel>
