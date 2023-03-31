@@ -9,8 +9,6 @@ Unsere Sessions finden zweimal im Monat statt und sind für Anfänger und Fortge
 Melden Sie sich noch heute an und werden Sie Teil der Power Platform-Community. Wir freuen uns darauf, Ihnen dabei zu helfen, das Beste aus diesen leistungsstarken Tools herauszuholen!
 
 ## Termine
-- 24.03.2023: Let's talk: Power Virtual Agents und SAP
-- TBA: Modernisierung von Access-Datenbanken mit Hilfe von Power Apps und Dataverse
-- TBA: Komplexe Prozesse mit Power Automate (Cloud) und SAP
-- TBA: Native mobile Apps mit Power Apps und Wrap
-- TBA: Power Platform für SAP-Entwickler
+- 21.04.2023: [Modernisierung von Access-Datenbanken mit Hilfe von Power Apps und Dataverse](https://msevents.microsoft.com/event?id=434708713)
+- 26.05.2023: [Migration von SharePoint zu Dataverse](https://msevents.microsoft.com/event?id=1144164480)
+- 23.06.2023: [Konzeption einer Power Platform Lösung mit Dataverse](https://msevents.microsoft.com/event?id=3146683509)
